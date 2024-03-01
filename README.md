@@ -1,2 +1,3 @@
-# Linode-Mobile-App
-Community made Linode Mobile App
+# Akamai-Connected-Cloud-Mobile-App
+Community made Akamai-Connected-Cloud-Mobile-App
+
